@@ -1,0 +1,55 @@
+Explain the four pillars of object-oriented programming.
+
+Answer 1 :-
+four pillar of java;
+1> Encapsulation:- in this process data and code are wrap into a single unit.
+pros:-Security, code reusability
+
+2> Polymorphism:- poly means "many" and polymorphism means "have many forms";
+eg:- A data have many form;
+pros:-code reusability
+
+
+3> Inheritance:-inheritance means to adopt properties and behaviours from parent object.
+when child class inherit from parent class you can reuse the properties and method;
+pros:- code reusability
+
+4> Abstraction:-its means hiding the complexity from the user.
+Its hide the implementation and it will show functionality of the user.
+pros: security,maintain
+
+
+
+
+Question 2 :Differentiate between JRE, JVM and JDK.
+
+
+JRE:- JRE means JAVA RUNTIME ENVIRONMENT;
+JVM: JAVA VIRTUAL MACHINE;
+JDK: JAVA DEVELOPMENT KIT;
+
+JVM:- this is a virtual machine it means there is no physical weight,height and physical appereance.
+virtual machine have two type :-
+Virtual machine :- A software simulation machine which can perform opertion like a physical machine;
+1> Hardcore based VM./System based VM.:-it provide several logic system on same computer.
+
+2> Application baed VM./Process based.:-the virtual machine acts as runtime engines to run a particular programming language application
+
+architecture of JVM:-
+1 ClassLoader sub  system in which reads many .class files and store data in method area.
+2: it resposible for 3 activities:
+a> loading
+b> linking
+c> Initailisation
+
+JRE :- Java run tim e environment. it is set of software tool which is used for java developing applications.
+it is the implementation of JVM. its is physically exist.
+it contain set of library and other files of JVM.
+
+JDK :- Java development kit ,which is used to develop java application. it physically exist.
+ it contain JRE+ JVM;
+
+ JDK contain  java virtual machine, interpretor(java),a compiler(javac),an achiever(jar) and documentation (javadoc)
+to complete the development of java application
+
+
